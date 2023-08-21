@@ -1,4 +1,8 @@
-https://github.com/testTPU/1/blob/main/logo-en-blanco.png
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/testTPU/1/blob/main/logo-en-blanco.png">
+</picture>
+
+
 
 
 
