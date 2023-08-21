@@ -8,11 +8,6 @@
 </div>
 <br>
 
-
-
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
-
 ### :page_with_curl: Lenguajes de programación
 
 - :fire: Javascript
@@ -46,7 +41,7 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 
 
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="600"/ autoplay>
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600"/ autoplay>
 </div>
 <br>
 
