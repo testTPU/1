@@ -1,5 +1,4 @@
-<iframe src="https://masservidor.net/cp/widgets/player/single/?p=8010" height="110" width="80%" scrolling="no" style="border:none;"></iframe>
-                           
+
                             Dios con nosotros, quién contra nosotros.
 
 <br>
@@ -32,14 +31,20 @@
 
 Este cuadro muestra la asignación de los miembros del equipo a la función de Scrum Master durante cada semana. 
 
-| Nombre | Semana de Scrum Master | Proyecto(Wiki) |
-|:---:|:---:|:---:|:---:|:---:|
-| [David Sanchez](https://github.com/nob322) | [1ra semana](https://github.com/CodeSystem2022/Team-pro_Utn-Cuarto-Semestre) | [Semana 1 ] |
-
-
-
-
-
+| Nombre             | Semana de Scrum Master                                 | Proyecto(Wiki)           |
+|--------------------|-------------------------------------------------------|---------------------------|
+| [David Sanchez](https://github.com/nob322)         | Semana 1                                               | [Semana 1](https://github.com/nob322/semana1)         |
+| [Sandra Ferreyra](https://github.com/sandraFerreyra) | Semana 2                                               | [Semana 2](https://github.com/sandraFerreyra/semana2) |
+| [Fernando Gregoratti](https://github.com/mvkgamingarg)| Semana 3                                               | [Semana 3](https://github.com/mvkgamingarg/semana3)   |
+| [Exequiel Marín](https://github.com/Exequiel3)       | Semana 4                                               | [Semana 4](https://github.com/Exequiel3/semana4)       |
+| [David Sanchez](https://github.com/nob322)         | Semana 5                                               | [Semana 5](https://github.com/nob322/semana5)         |
+| [Sandra Ferreyra](https://github.com/sandraFerreyra) | Semana 6                                               | [Semana 6](https://github.com/sandraFerreyra/semana6) |
+| [Fernando Gregoratti](https://github.com/mvkgamingarg)| Semana 7                                               | [Semana 7](https://github.com/mvkgamingarg/semana7)   |
+| [Exequiel Marín](https://github.com/Exequiel3)       | Semana 8                                               | [Semana 8](https://github.com/Exequiel3/semana8)       |
+| [David Sanchez](https://github.com/nob322)         | Semana 9                                               | [Semana 9](https://github.com/nob322/semana9)         |
+| [Sandra Ferreyra](https://github.com/sandraFerreyra) | Semana 10                                              | [Semana 10](https://github.com/sandraFerreyra/semana10)|
+| [Fernando Gregoratti](https://github.com/mvkgamingarg)| Semana 11                                              | [Semana 11](https://github.com/mvkgamingarg/semana11)  |
+| [Exequiel Marín](https://github.com/Exequiel3)       | Semana 12                                              | [Semana 12](https://github.com/Exequiel3/semana12)    |
 
 
 <div id="header" align="center">
