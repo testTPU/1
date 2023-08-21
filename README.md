@@ -4,7 +4,7 @@
 <img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">
 <br>
 <div id="header" align="center">
-    <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="400"/ autoplay>
+    <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="800"/ autoplay>
     <br>
 
 </div>
