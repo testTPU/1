@@ -35,18 +35,18 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 
 |    Nombre              | Semana de Scrum Master                                 |        Proyecto(Wiki)           |
 |:---------------------:|:-----------------------------------------------------:|:-----------------------------:|
-| <span style="color:#FFFF00;">David Sanchez</span>         |      Semana 1                                           |  [Semana 1](https://github.com/nob322/semana1)         |
-| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      Semana 2                                           |  [Semana 2](https://github.com/sandraFerreyra/semana2) |
-| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      Semana 3                                           |  [Semana 3](https://github.com/mvkgamingarg/semana3)   |
-| <span style="color:#FFFF00;">Exequiel Marín</span>       |      Semana 4                                           |  [Semana 4](https://github.com/Exequiel3/semana4)       |
-| <span style="color:#FFFF00;">David Sanchez</span>         |      Semana 5                                           |  [Semana 5](https://github.com/nob322/semana5)         |
-| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      Semana 6                                           |  [Semana 6](https://github.com/sandraFerreyra/semana6) |
-| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      Semana 7                                           |  [Semana 7](https://github.com/mvkgamingarg/semana7)   |
-| <span style="color:#FFFF00;">Exequiel Marín</span>       |      Semana 8                                           |  [Semana 8](https://github.com/Exequiel3/semana8)       |
-| <span style="color:#FFFF00;">David Sanchez</span>         |      Semana 9                                           |  [Semana 9](https://github.com/nob322/semana9)         |
-| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      Semana 10                                          |  [Semana 10](https://github.com/sandraFerreyra/semana10)|
-| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      Semana 11                                          |  [Semana 11](https://github.com/mvkgamingarg/semana11)  |
-| <span style="color:#FFFF00;">Exequiel Marín</span>       |      Semana 12                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
+| <span style="color:red;">David Sanchez</span>         |      1                                           |  [Semana 1](https://github.com/nob322/semana1)         |
+| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      2                                           |  [Semana 2](https://github.com/sandraFerreyra/semana2) |
+| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      3                                           |  [Semana 3](https://github.com/mvkgamingarg/semana3)   |
+| <span style="color:#FFFF00;">Exequiel Marín</span>       |      4                                           |  [Semana 4](https://github.com/Exequiel3/semana4)       |
+| <span style="color:#FFFF00;">David Sanchez</span>         |      5                                           |  [Semana 5](https://github.com/nob322/semana5)         |
+| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      6                                           |  [Semana 6](https://github.com/sandraFerreyra/semana6) |
+| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      7                                           |  [Semana 7](https://github.com/mvkgamingarg/semana7)   |
+| <span style="color:#FFFF00;">Exequiel Marín</span>       |      8                                           |  [Semana 8](https://github.com/Exequiel3/semana8)       |
+| <span style="color:#FFFF00;">David Sanchez</span>         |      9                                           |  [Semana 9](https://github.com/nob322/semana9)         |
+| <span style="color:#FFFF00;">Sandra Ferreyra</span> |      10                                          |  [Semana 10](https://github.com/sandraFerreyra/semana10)|
+| <span style="color:#FFFF00;">Fernando Gregoratti</span>|      11                                          |  [Semana 11](https://github.com/mvkgamingarg/semana11)  |
+| <span style="color:#FFFF00;">Exequiel Marín</span>       |      12                                          |  [Semana 12](https://github.com/Exequiel3/semana12)    |
 </div>
 
 <div id="header" align="center">
