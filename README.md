@@ -5,7 +5,7 @@
 <img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">
 <br>
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="600">
+    <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="700">
 </div>
 <br>
 
@@ -50,7 +50,7 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 </div>
 
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600"/ autoplay>
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="700"/ autoplay>
 </div>
 <br>
 
