@@ -4,11 +4,9 @@
 <img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">
 <br>
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="800"/ autoplay>
-    <br>
-
+    <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="600"/ autoplay>
 </div>
-
+<br>
 
 
 
@@ -47,5 +45,9 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 
 
 
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="600"/ autoplay>
+</div>
+<br>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1"></a></p>
+
